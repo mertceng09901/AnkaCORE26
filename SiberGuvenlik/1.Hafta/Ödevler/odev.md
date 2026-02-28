@@ -8,7 +8,7 @@ Bu repo, Siber Güvenlik Mühendisliği eğitim programının ödev teslim ve ka
 
 ## 📅 HAFTA 1: Dijital Savaş Alanı ve CTI (Tehdit İstihbaratı)
 
-**Durum:** 🟢 Aktif
+**Durum:** 🔴 Tamamlandı
 **Son Teslim:** Cuma 23:59
 
 ### 🚀 Görev Özeti
